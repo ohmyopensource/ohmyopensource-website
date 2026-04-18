@@ -81,7 +81,7 @@ export const FOOTER_BOTTOM_LINKS: FooterBottomLink[] = [
   {
     key: 'terms',
     label: 'Termini e Condizioni',
-    href: '/termini-e-condizioni',
+    href: '/terms-and-conditions',
   },
 ];
 

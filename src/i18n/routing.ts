@@ -6,34 +6,34 @@ export const routing = defineRouting({
   localePrefix: 'always',
   pathnames: {
     '/': '/',
-    '/progetti': {
-      en: '/projects',
+    '/projects': {
+      it: '/progetti',
     },
     '/news': '/news',
-    '/documentazione': {
-      en: '/documentation',
+    '/documentation': {
+      it: '/documentazione',
     },
-    '/chi-siamo': {
-      en: '/about',
+    '/about': {
+      it: '/chi-siamo',
     },
-    '/contribuisci': {
-      en: '/contribute',
+    '/contribute': {
+      it: '/contribuisci',
     },
     '/privacy-policy': '/privacy-policy',
     '/cookie-policy': '/cookie-policy',
-    '/termini-e-condizioni': {
-      en: '/terms-and-conditions',
+    '/terms-and-conditions': {
+      it: '/termini-e-condizioni',
     },
 
     // todo
     '/news/[articleSlug]': {
-      en: '/neuigkeiten/[articleSlug]',
+      it: '/neuigkeiten/[articleSlug]',
     },
     '/news/just-in': {
-      en: '/neuigkeiten/aktuell',
+      it: '/neuigkeiten/aktuell',
     },
     '/categories/[...slug]': {
-      en: '/kategorien/[...slug]',
+      it: '/kategorien/[...slug]',
     },
   },
 });
