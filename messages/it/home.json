@@ -1,0 +1,69 @@
+{
+  "home": {
+    "meta": {
+      "title": "NomeSito — Strumenti digitali liberi",
+      "description": "Un'associazione open source che costruisce strumenti digitali accessibili a tutti."
+    },
+    "hero": {
+      "eyebrow": "Open source · Community · Italia",
+      "title": "Tecnologia aperta per tutti",
+      "subtitle": "NomeSito è un'associazione di volontari che costruisce e mantiene strumenti digitali liberi. Tutto il codice è pubblico, tutta la documentazione è gratuita.",
+      "ctaPrimary": "Esplora i progetti",
+      "ctaSecondary": "Scopri chi siamo"
+    },
+    "stats": {
+      "projects": {
+        "value": "12",
+        "label": "Progetti attivi"
+      },
+      "contributors": {
+        "value": "80+",
+        "label": "Contributori"
+      },
+      "stars": {
+        "value": "2.4k",
+        "label": "Star su GitHub"
+      },
+      "community": {
+        "value": "500+",
+        "label": "Membri community"
+      }
+    },
+    "features": {
+      "title": "Perché NomeSito",
+      "subtitle": "Non siamo una startup. Siamo persone che credono nel software libero e ci dedicano tempo libero.",
+      "openSource": {
+        "title": "Tutto open source",
+        "description": "Ogni riga di codice è pubblica su GitHub. Puoi esaminare, fare fork e contribuire a qualsiasi progetto."
+      },
+      "docs": {
+        "title": "Documentazione curata",
+        "description": "Scriviamo documentazione come se fosse parte del prodotto, perché lo è. Chiara, aggiornata e in italiano."
+      },
+      "community": {
+        "title": "Community inclusiva",
+        "description": "Un luogo dove chi inizia trova aiuto e chi ha esperienza trova persone con cui confrontarsi."
+      },
+      "updates": {
+        "title": "Aggiornamenti regolari",
+        "description": "Pubblichiamo note di rilascio, articoli tecnici e aggiornamenti sulla vita del progetto con cadenza regolare."
+      }
+    },
+    "projects": {
+      "title": "Progetti in evidenza",
+      "subtitle": "Una selezione di quello su cui stiamo lavorando.",
+      "cta": "Vedi tutti i progetti"
+    },
+    "news": {
+      "title": "Ultime notizie",
+      "subtitle": "Aggiornamenti dal progetto e dalla community.",
+      "cta": "Vai alle news"
+    },
+    "cta": {
+      "title": "Entra a far parte del progetto",
+      "subtitle": "Ogni contributo è benvenuto: una pull request, una segnalazione, una traduzione o una donazione fanno la differenza.",
+      "contribute": "Contribuisci",
+      "learnMore": "Scopri chi siamo"
+    }
+  }
+}

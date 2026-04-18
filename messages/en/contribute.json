@@ -1,0 +1,59 @@
+{
+  "contribute": {
+    "meta": {
+      "title": "Contribute — NomeSito",
+      "description": "Find out how to contribute to the project: code, documentation, donations and community."
+    },
+    "hero": {
+      "eyebrow": "Open source & community",
+      "title": "Be part of the project",
+      "subtitle": "NomeSito is built by people, for people. Whether you write code, improve documentation or support the project financially, every contribution matters."
+    },
+    "why": {
+      "title": "Why contribute",
+      "items": {
+        "openSource": {
+          "title": "Fully open source",
+          "description": "All code is public and freely accessible. You can inspect, modify and redistribute every part of the project."
+        },
+        "community": {
+          "title": "An active community",
+          "description": "Connect with developers, designers and enthusiasts who share your same vision."
+        },
+        "impact": {
+          "title": "Real impact",
+          "description": "Your contribution improves a tool used by thousands of people every day."
+        }
+      }
+    },
+    "ways": {
+      "title": "How you can contribute",
+      "subtitle": "Choose the way that suits you — you don't need to be a developer.",
+      "code": {
+        "title": "Write code",
+        "description": "Open a pull request, fix a bug or propose a new feature on the GitHub repository.",
+        "cta": "Go to GitHub"
+      },
+      "docs": {
+        "title": "Improve documentation",
+        "description": "Fix errors, add examples or translate content to make it accessible to everyone.",
+        "cta": "Go to documentation"
+      },
+      "donate": {
+        "title": "Support financially",
+        "description": "A donation, even a small one, helps cover project costs and keeps everything free.",
+        "cta": "Donate now"
+      },
+      "community": {
+        "title": "Join the community",
+        "description": "Answer questions, report issues, propose ideas and help those approaching the project for the first time.",
+        "cta": "Join Discord"
+      }
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "subtitle": "It only takes a few minutes to take the first step.",
+      "button": "Open an issue on GitHub"
+    }
+  }
+}

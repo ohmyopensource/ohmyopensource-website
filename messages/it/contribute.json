@@ -1,0 +1,59 @@
+{
+  "contribute": {
+    "meta": {
+      "title": "Contribuisci — NomeSito",
+      "description": "Scopri come contribuire al progetto: codice, documentazione, donazioni e community."
+    },
+    "hero": {
+      "eyebrow": "Open source & community",
+      "title": "Fai parte del progetto",
+      "subtitle": "NomeSito è costruito dalle persone, per le persone. Che tu scriva codice, migliorì la documentazione o sostenga economicamente il progetto, ogni contributo conta."
+    },
+    "why": {
+      "title": "Perché contribuire",
+      "items": {
+        "openSource": {
+          "title": "Completamente open source",
+          "description": "Tutto il codice è pubblico e liberamente accessibile. Puoi esaminare, modificare e ridistribuire ogni parte del progetto."
+        },
+        "community": {
+          "title": "Una community attiva",
+          "description": "Entra in contatto con sviluppatori, designer e appassionati che condividono la tua stessa visione."
+        },
+        "impact": {
+          "title": "Impatto concreto",
+          "description": "Il tuo contributo migliora uno strumento usato da migliaia di persone ogni giorno."
+        }
+      }
+    },
+    "ways": {
+      "title": "Come puoi contribuire",
+      "subtitle": "Scegli il modo che fa per te — non serve essere sviluppatori.",
+      "code": {
+        "title": "Scrivi codice",
+        "description": "Apri una pull request, risolvi un bug o proponi una nuova funzionalità sul repository GitHub.",
+        "cta": "Vai su GitHub"
+      },
+      "docs": {
+        "title": "Migliora la documentazione",
+        "description": "Correggi errori, aggiungi esempi o traduci i contenuti per renderli accessibili a tutti.",
+        "cta": "Vai alla documentazione"
+      },
+      "donate": {
+        "title": "Sostieni economicamente",
+        "description": "Una donazione, anche piccola, aiuta a coprire i costi del progetto e a tenere tutto gratuito.",
+        "cta": "Dona ora"
+      },
+      "community": {
+        "title": "Partecipa alla community",
+        "description": "Rispondi a domande, segnala problemi, proponi idee e aiuta chi si avvicina al progetto per la prima volta.",
+        "cta": "Entra su Discord"
+      }
+    },
+    "cta": {
+      "title": "Pronto a iniziare?",
+      "subtitle": "Bastano pochi minuti per fare il primo passo.",
+      "button": "Apri una issue su GitHub"
+    }
+  }
+}

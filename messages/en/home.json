@@ -1,0 +1,69 @@
+{
+  "home": {
+    "meta": {
+      "title": "NomeSito — Free digital tools",
+      "description": "An open source association building accessible digital tools for everyone."
+    },
+    "hero": {
+      "eyebrow": "Open source · Community · Italy",
+      "title": "Open technology for everyone",
+      "subtitle": "NomeSito is a volunteer association that builds and maintains free digital tools. All code is public, all documentation is free.",
+      "ctaPrimary": "Explore projects",
+      "ctaSecondary": "Learn about us"
+    },
+    "stats": {
+      "projects": {
+        "value": "12",
+        "label": "Active projects"
+      },
+      "contributors": {
+        "value": "80+",
+        "label": "Contributors"
+      },
+      "stars": {
+        "value": "2.4k",
+        "label": "GitHub stars"
+      },
+      "community": {
+        "value": "500+",
+        "label": "Community members"
+      }
+    },
+    "features": {
+      "title": "Why NomeSito",
+      "subtitle": "We are not a startup. We are people who believe in free software and dedicate their free time to it.",
+      "openSource": {
+        "title": "Fully open source",
+        "description": "Every line of code is public on GitHub. You can inspect, fork and contribute to any project."
+      },
+      "docs": {
+        "title": "Curated documentation",
+        "description": "We write documentation as if it were part of the product, because it is. Clear, up-to-date and in plain language."
+      },
+      "community": {
+        "title": "Inclusive community",
+        "description": "A place where beginners find help and experienced people find others to exchange ideas with."
+      },
+      "updates": {
+        "title": "Regular updates",
+        "description": "We publish release notes, technical articles and project updates on a regular basis."
+      }
+    },
+    "projects": {
+      "title": "Featured projects",
+      "subtitle": "A selection of what we are working on.",
+      "cta": "See all projects"
+    },
+    "news": {
+      "title": "Latest news",
+      "subtitle": "Updates from the project and the community.",
+      "cta": "Go to news"
+    },
+    "cta": {
+      "title": "Join the project",
+      "subtitle": "Every contribution is welcome: a pull request, a bug report, a translation or a donation all make a difference.",
+      "contribute": "Contribute",
+      "learnMore": "Learn about us"
+    }
+  }
+}

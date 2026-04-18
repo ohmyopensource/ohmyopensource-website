@@ -1,0 +1,229 @@
+{
+  "privacyPolicy": {
+    "meta": {
+      "title": "Privacy Policy",
+      "description": "Information on the processing of personal data pursuant to EU Regulation 2016/679 (GDPR)."
+    },
+    "lastUpdated": "Last updated: __LAST_UPDATED_DATE__",
+    "title": "Privacy Policy",
+    "intro": "This policy describes how personal data of users visiting the website __SITE_URL__ (hereinafter «the Site») is processed, in compliance with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 («GDPR») and Italian Legislative Decree 196/2003 as amended by Legislative Decree 101/2018.",
+
+    "controller": {
+      "title": "1. Data Controller",
+      "body": "The data controller is Luca D'Aurizio, based in __TITOLARE_INDIRIZZO__, Italy. For any matters relating to the processing of personal data, please contact the data controller at __PRIVACY_EMAIL__."
+    },
+
+    "dataCollected": {
+      "title": "2. Data collected and purposes of processing",
+      "navigation": {
+        "subtitle": "2.1 Navigation data",
+        "body": "The computer systems and software procedures used to operate the Site automatically acquire, in the course of their normal operation, certain personal data whose transmission is implicit in the use of Internet communication protocols. This category includes IP addresses, browser types, operating system, domain name and addresses of websites from which access was made, information on pages visited, access time, and parameters relating to the operating system and computing environment of the user. These data are used solely to obtain anonymous statistical information on the use of the Site and to monitor its correct functioning. The data could be used to investigate responsibility in the event of hypothetical cybercrimes against the Site."
+      },
+      "analytics": {
+        "subtitle": "2.2 Statistical analysis data (Google Analytics 4)",
+        "body": "The Site uses Google Analytics 4, a web analytics service provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Google Analytics collects information about the use of the Site through cookies and similar technologies. The data collected includes, in anonymised form, pages visited, duration of visit, country of origin, type of device and browser used. On this Site, Google Analytics is configured with IP address anonymisation enabled: the user's IP address is truncated before transmission to Google's servers within the Member States of the European Union or other countries party to the Agreement on the European Economic Area. Only in exceptional cases is the full IP address transmitted to Google's servers in the USA and truncated there. Google will use this information to evaluate users' use of the Site, compile reports on Site activity and provide other services related to Site activity. Google will not associate the IP address with any other data in its possession. For more information, see Google's privacy policy: https://policies.google.com/privacy. Users can disable Google Analytics by installing the browser add-on available at: https://tools.google.com/dlpage/gaoptout."
+      },
+      "tagManager": {
+        "subtitle": "2.3 Google Tag Manager",
+        "body": "The Site uses Google Tag Manager, a service provided by Google LLC that allows website tags to be managed through an interface. Google Tag Manager does not collect personal data itself, but allows the activation of other tags that may collect data. Google Tag Manager operates in accordance with its own terms of use available at https://marketingplatform.google.com/about/analytics/tag-manager/use-policy/."
+      },
+      "hosting": {
+        "subtitle": "2.4 Hosting and infrastructure (Vercel)",
+        "body": "The Site is hosted on Vercel Inc., 340 Pine Street Suite 701, San Francisco, CA 94104, USA. Vercel, acting as data processor, may process technical log data (IP addresses, timestamps, HTTP requests) to ensure the security and operation of the infrastructure. Such data is processed in accordance with Vercel's terms of service and privacy policy, available at https://vercel.com/legal/privacy-policy. The transfer of data to the USA takes place in compliance with the guarantees provided by the GDPR, in particular through the Standard Contractual Clauses approved by the European Commission."
+      }
+    },
+
+    "legalBasis": {
+      "title": "3. Legal basis for processing",
+      "body": "The processing of navigation data and data collected by Vercel for technical purposes is based on the legitimate interest of the data controller (Art. 6(1)(f) GDPR) in ensuring the security and correct functioning of the Site. The processing of data through Google Analytics and Google Tag Manager is based on the user's consent (Art. 6(1)(a) GDPR), expressed through the appropriate banner on first access to the Site. Consent may be withdrawn at any time through the cookie settings."
+    },
+
+    "retention": {
+      "title": "4. Data retention",
+      "body": "Navigation data is retained for the time strictly necessary to provide the service and in any case no longer than 12 months, unless required for the investigation of crimes. Data collected through Google Analytics is retained for a period of 14 months, as configured in the service settings. Vercel log data is retained in accordance with Vercel's policies, available at the link indicated in paragraph 2.4."
+    },
+
+    "rights": {
+      "title": "5. Rights of the data subject",
+      "body": "In relation to the personal data processed, users have the right to: access their personal data (Art. 15 GDPR); request rectification (Art. 16 GDPR); obtain erasure ('right to be forgotten', Art. 17 GDPR); request restriction of processing (Art. 18 GDPR); receive data in a structured, commonly used and machine-readable format (portability, Art. 20 GDPR); object to processing (Art. 21 GDPR); withdraw consent at any time, without affecting the lawfulness of processing based on consent given before withdrawal. To exercise these rights, please contact the data controller at __PRIVACY_EMAIL__. Users also have the right to lodge a complaint with the competent supervisory authority (Italian Data Protection Authority, www.garanteprivacy.it)."
+    },
+
+    "transfers": {
+      "title": "6. Transfer of data to third countries",
+      "body": "Some of the service providers used by the Site (Google LLC, Vercel Inc.) are based in the United States of America. The transfer of data to these countries takes place in compliance with the guarantees provided by Chapter V of the GDPR, in particular through the Standard Contractual Clauses adopted by the European Commission (implementing decision 2021/914/EU) or, where applicable, on the basis of the EU-USA adequacy agreement 'Data Privacy Framework' (European Commission decision of 10 July 2023)."
+    },
+
+    "changes": {
+      "title": "7. Changes to this policy",
+      "body": "The data controller reserves the right to modify this policy at any time, notifying users by publishing on the Site. Users are invited to consult this page periodically. The date of the last update is indicated at the top of this policy."
+    },
+
+    "credits": {
+      "title": "8. Icon and visual resource credits",
+      "body": "The icons and graphic resources used on the Site are provided by __ICON_SOURCE_PLACEHOLDER__ and are used in accordance with their respective licences. __ADDITIONAL_CREDITS_PLACEHOLDER__"
+    }
+  },
+
+  "cookiePolicy": {
+    "meta": {
+      "title": "Cookie Policy",
+      "description": "Information on the use of cookies and tracking technologies on the site."
+    },
+    "lastUpdated": "Last updated: __LAST_UPDATED_DATE__",
+    "title": "Cookie Policy",
+    "intro": "This Cookie Policy describes the types of cookies and similar technologies used by the website __SITE_URL__ (hereinafter «the Site») and how their use can be managed, in compliance with Directive 2002/58/EC («ePrivacy Directive»), the GDPR and the provisions of the Italian Data Protection Authority, in particular the Provision of 8 January 2015 and the 'Guidelines on cookies and other tracking tools' of 10 June 2021.",
+
+    "whatAreCookies": {
+      "title": "1. What are cookies",
+      "body": "Cookies are small text files that websites visited by the user send to their device (computer, tablet, smartphone), where they are stored and retransmitted to the same websites on the next visit. Cookies allow the website to recognise the user's device and remember information about their preferences or past actions."
+    },
+
+    "cookieTypes": {
+      "title": "2. Types of cookies used",
+      "technical": {
+        "subtitle": "2.1 Technical cookies (always active)",
+        "body": "Technical cookies are necessary for the functioning of the Site and do not require user consent. This Site does not use its own technical session or persistent cookies stored on the user's device, as it is a static site that does not require authentication or client-side personalisation."
+      },
+      "analytics": {
+        "subtitle": "2.2 Third-party analytics cookies (require consent)",
+        "table": {
+          "header": {
+            "name": "Cookie name",
+            "provider": "Provider",
+            "purpose": "Purpose",
+            "duration": "Duration",
+            "type": "Type"
+          },
+          "rows": [
+            {
+              "name": "_ga",
+              "provider": "Google Analytics",
+              "purpose": "Distinguishes unique users by assigning a randomly generated identification number. Included in every page request to the site and used to calculate visitor, session and campaign data.",
+              "duration": "2 years",
+              "type": "Persistent"
+            },
+            {
+              "name": "_ga_[ID]",
+              "provider": "Google Analytics 4",
+              "purpose": "Used by Google Analytics 4 to maintain session state.",
+              "duration": "2 years",
+              "type": "Persistent"
+            },
+            {
+              "name": "_gid",
+              "provider": "Google Analytics",
+              "purpose": "Registers a unique identifier used to generate statistical data on how the user uses the site.",
+              "duration": "24 hours",
+              "type": "Persistent"
+            },
+            {
+              "name": "_gat",
+              "provider": "Google Analytics",
+              "purpose": "Used to throttle request rate to Google Analytics.",
+              "duration": "1 minute",
+              "type": "Persistent"
+            }
+          ]
+        }
+      }
+    },
+
+    "consent": {
+      "title": "3. Consent management",
+      "body": "On first access to the Site a banner is shown informing the user of the use of analytics cookies and requesting consent. The user can: accept all analytics cookies; refuse analytics cookies (the Site remains fully functional); modify their preferences at any time. The expressed consent is stored for 12 months. After this period the banner will be shown again."
+    },
+
+    "thirdParty": {
+      "title": "4. Third-party cookies and external links",
+      "body": "Analytics cookies are set by Google LLC, a third party in relation to the Site. The Site owner does not have direct access to the data collected by Google through such cookies. For detailed information on the processing carried out by Google, please refer to Google's privacy policy at https://policies.google.com/privacy and the related rules on Google's use of Analytics data: https://support.google.com/analytics/answer/6004245."
+    },
+
+    "optOut": {
+      "title": "5. How to disable cookies",
+      "browser": {
+        "subtitle": "5.1 Through browser settings",
+        "body": "Most browsers allow you to refuse or delete cookies through their settings. Below are links to instructions for the main browsers: Chrome (https://support.google.com/chrome/answer/95647), Firefox (https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop), Safari (https://support.apple.com/en-gb/guide/safari/sfri11471/mac), Edge (https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09). Please note that disabling cookies may affect the functionality of other websites visited."
+      },
+      "gaOptOut": {
+        "subtitle": "5.2 Google Analytics opt-out",
+        "body": "To disable Google Analytics tracking across all websites, Google provides a browser add-on downloadable at: https://tools.google.com/dlpage/gaoptout."
+      }
+    },
+
+    "changes": {
+      "title": "6. Changes to this Cookie Policy",
+      "body": "The data controller reserves the right to modify this Cookie Policy at any time. Changes take effect from the date of publication on the Site. In the event of material changes relating to cookies that require consent, the banner will be shown again."
+    },
+
+    "moreInfo": {
+      "title": "7. Further information",
+      "body": "For any questions regarding the use of cookies on this Site or to exercise your rights, please contact the data controller at __PRIVACY_EMAIL__. For complete information on personal data processing, please refer to the Site's Privacy Policy."
+    }
+  },
+
+  "termsAndConditions": {
+    "meta": {
+      "title": "Terms and Conditions",
+      "description": "Terms and conditions of use of the website."
+    },
+    "lastUpdated": "Last updated: __LAST_UPDATED_DATE__",
+    "title": "Terms and Conditions of Use",
+    "intro": "These Terms and Conditions of Use (hereinafter «Terms») govern access to and use of the website __SITE_URL__ (hereinafter «the Site») by users. By accessing the Site, the user fully accepts these Terms. If you do not accept them, please do not use the Site.",
+
+    "owner": {
+      "title": "1. Site owner",
+      "body": "The Site is managed by Luca D'Aurizio, based in __TITOLARE_INDIRIZZO__, Italy. For any communication: __CONTACT_EMAIL__."
+    },
+
+    "purpose": {
+      "title": "2. Description of the Site",
+      "body": "The Site is an informational showcase presenting open source software projects developed and maintained by the owner. The content of the Site is purely illustrative and informational in nature. The source code of the projects presented is available in the respective GitHub repositories and distributed under the open source licences indicated therein."
+    },
+
+    "ip": {
+      "title": "3. Intellectual property",
+      "design": {
+        "subtitle": "3.1 Site content",
+        "body": "The design, structure, text and original content of the Site are the property of the owner and protected by applicable copyright law. Reproduction, distribution or public communication of the Site's content without the owner's explicit written authorisation is prohibited, except for personal non-commercial use."
+      },
+      "openSource": {
+        "subtitle": "3.2 Open source projects",
+        "body": "The source code of the projects presented on the Site is distributed under an open source licence. The exact terms of each licence are indicated in the LICENSE file in each repository. The owner does not transfer any rights other than those explicitly provided for by the applicable licence."
+      },
+      "thirdParty": {
+        "subtitle": "3.3 Third-party resources",
+        "body": "The icons, images and other graphic resources from third parties used on the Site are provided by __ICON_SOURCE_PLACEHOLDER__ and used in accordance with their respective licences. __ADDITIONAL_CREDITS_PLACEHOLDER__ The owner makes no claim of ownership over such resources."
+      }
+    },
+
+    "conduct": {
+      "title": "4. Use of the Site",
+      "body": "The Site is made available to users exclusively for personal and non-commercial use. The following are prohibited: using the Site for unlawful purposes or contrary to these Terms; attempting unauthorised access to the Site's computer systems; interfering with the functioning of the Site by using viruses, bots, spiders or other automated tools; reproducing or distributing the Site's content for commercial purposes without authorisation."
+    },
+
+    "links": {
+      "title": "5. Links to third-party sites",
+      "body": "The Site may contain links to third-party websites (including GitHub repositories, donation platforms, social networks). Such links are provided for informational purposes only. The owner has no control over the content of such sites and is not responsible for their availability, accuracy or compliance with the law. Access to third-party sites is at the user's sole risk and subject to their respective terms of use and privacy policies."
+    },
+
+    "disclaimer": {
+      "title": "6. Disclaimer and limitation of liability",
+      "body": "The Site and its contents are provided 'as is', without warranties of any kind, express or implied. The owner does not guarantee that the Site is free from errors, interruptions or viruses. To the maximum extent permitted by applicable law, the owner is not liable for direct, indirect, incidental or consequential damages arising from the use or inability to use the Site. Nothing in these Terms excludes or limits the owner's liability for death or personal injury caused by their negligence, or for fraud, or for any other liability that cannot be excluded by law."
+    },
+
+    "governing": {
+      "title": "7. Governing law and jurisdiction",
+      "body": "These Terms are governed by Italian law. For any dispute relating to the interpretation, performance or validity of these Terms, the parties submit to the exclusive jurisdiction of the Court of __FORO_COMPETENTE__. If the user is a consumer under Italian Consumer Code (Legislative Decree 206/2005), the mandatory consumer protection rules of the country of their habitual residence shall apply."
+    },
+
+    "changes": {
+      "title": "8. Changes to the Terms",
+      "body": "The owner reserves the right to modify these Terms at any time, notifying users by publishing on the Site. Continued use of the Site following publication of the changes constitutes acceptance of the new Terms."
+    },
+
+    "contact": {
+      "title": "9. Contact",
+      "body": "For any questions or communications regarding these Terms, please contact the owner at: __CONTACT_EMAIL__."
+    }
+  }
+}
