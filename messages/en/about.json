@@ -1,71 +1,71 @@
 {
   "about": {
     "meta": {
-      "title": "Chi Siamo — NomeSito",
-      "description": "Scopri la storia, la missione e il team dietro NomeSito."
+      "title": "About — NomeSito",
+      "description": "Discover the story, mission and team behind NomeSito."
     },
     "hero": {
-      "eyebrow": "La nostra storia",
-      "title": "Costruiamo insieme strumenti liberi",
-      "subtitle": "NomeSito nasce dalla convinzione che la tecnologia aperta sia un bene comune. Siamo un gruppo di volontari che crede nel potere della collaborazione distribuita."
+      "eyebrow": "Our story",
+      "title": "Building free tools together",
+      "subtitle": "NomeSito was born from the belief that open technology is a common good. We are a group of volunteers who believe in the power of distributed collaboration."
     },
     "mission": {
-      "title": "La nostra missione",
-      "body": "Vogliamo rendere accessibili strumenti digitali di qualità a chiunque, senza barriere economiche o tecniche. Ogni cosa che costruiamo è open source, documentata e pensata per durare nel tempo."
+      "title": "Our mission",
+      "body": "We want to make quality digital tools accessible to everyone, without economic or technical barriers. Everything we build is open source, documented and designed to last."
     },
     "values": {
-      "title": "I nostri valori",
+      "title": "Our values",
       "openness": {
-        "title": "Apertura",
-        "description": "Tutto ciò che produciamo è pubblico, dal codice alle discussioni interne. La trasparenza non è un'opzione, è il nostro punto di partenza."
+        "title": "Openness",
+        "description": "Everything we produce is public, from code to internal discussions. Transparency is not an option — it's our starting point."
       },
       "collaboration": {
-        "title": "Collaborazione",
-        "description": "Le idee migliori nascono dall'incontro di prospettive diverse. Accogliamo contributi da chiunque, indipendentemente dall'esperienza."
+        "title": "Collaboration",
+        "description": "The best ideas come from the meeting of different perspectives. We welcome contributions from anyone, regardless of experience."
       },
       "accessibility": {
-        "title": "Accessibilità",
-        "description": "Progettiamo pensando a tutti: documentazione chiara, interfacce inclusive e strumenti che funzionano anche su connessioni lente."
+        "title": "Accessibility",
+        "description": "We design with everyone in mind: clear documentation, inclusive interfaces and tools that work even on slow connections."
       },
       "sustainability": {
-        "title": "Sostenibilità",
-        "description": "Costruiamo per il lungo periodo. Preferiamo decisioni ponderate a soluzioni rapide che creano debito tecnico o umano."
+        "title": "Sustainability",
+        "description": "We build for the long term. We prefer considered decisions over quick solutions that create technical or human debt."
       }
     },
     "team": {
-      "title": "Il team",
-      "subtitle": "Siamo un gruppo distribuito in tutta Italia. Ci coordiniamo in remoto e ci incontriamo quando possiamo."
+      "title": "The team",
+      "subtitle": "We are a group distributed across Italy. We coordinate remotely and meet up when we can."
     },
     "history": {
-      "title": "Come siamo arrivati qui",
+      "title": "How we got here",
       "items": {
         "founded": {
           "year": "2021",
-          "title": "Le origini",
-          "description": "Il progetto nasce da una conversazione su Discord tra quattro persone che non si erano mai incontrate di persona."
+          "title": "The origins",
+          "description": "The project started from a Discord conversation between four people who had never met in person."
         },
         "firstRelease": {
           "year": "2022",
-          "title": "Prima release pubblica",
-          "description": "Dopo mesi di lavoro notturno, pubblichiamo la prima versione stabile. In una settimana arrivano i primi 200 star su GitHub."
+          "title": "First public release",
+          "description": "After months of late-night work, we publish the first stable version. Within a week, the first 200 GitHub stars arrive."
         },
         "community": {
           "year": "2023",
-          "title": "Nasce la community",
-          "description": "Apriamo il server Discord e organizziamo il primo evento online. La community raggiunge le 500 persone in pochi mesi."
+          "title": "The community is born",
+          "description": "We open the Discord server and organise the first online event. The community reaches 500 people within a few months."
         },
         "today": {
-          "year": "Oggi",
-          "title": "Continuiamo a crescere",
-          "description": "Il progetto è mantenuto da un team di volontari ed è usato da migliaia di persone. E siamo solo all'inizio."
+          "year": "Today",
+          "title": "We keep growing",
+          "description": "The project is maintained by a team of volunteers and used by thousands of people. And we are only at the beginning."
         }
       }
     },
     "cta": {
-      "title": "Vuoi far parte di tutto questo?",
-      "subtitle": "Che tu voglia scrivere codice, migliorare la documentazione o semplicemente dire ciao — sei il benvenuto.",
-      "contribute": "Contribuisci al progetto",
-      "discord": "Entra su Discord"
+      "title": "Want to be part of all this?",
+      "subtitle": "Whether you want to write code, improve documentation or simply say hello — you are welcome.",
+      "contribute": "Contribute to the project",
+      "discord": "Join Discord"
     }
   }
 }

@@ -1,6 +1,7 @@
 import { getRequestConfig } from 'next-intl/server';
 import { hasLocale } from 'next-intl';
 import { routing } from './routing';
+import { loadMessages } from '@/lib/translation.utils';
 
 export default getRequestConfig(async ({ requestLocale }) => {
   const requested = await requestLocale;
@@ -8,22 +9,10 @@ export default getRequestConfig(async ({ requestLocale }) => {
     ? requested
     : routing.defaultLocale;
 
-  const [common, home, about, contribute, legal] = await Promise.all([
-    import(`../../messages/${locale}/common.json`),
-    import(`../../messages/${locale}/home.json`),
-    import(`../../messages/${locale}/about.json`),
-    import(`../../messages/${locale}/contribute.json`),
-    import(`../../messages/${locale}/legal.json`),
-  ]);
+  const messages = await loadMessages(locale);
 
   return {
     locale,
-    messages: {
-      ...common.default,
-      ...home.default,
-      ...about.default,
-      ...contribute.default,
-      ...legal.default,
-    },
+    messages: Object.assign({}, ...messages),
   };
 });
