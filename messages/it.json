@@ -58,5 +58,74 @@
       "subtitle": "Bastano pochi minuti per fare il primo passo.",
       "button": "Apri una issue su GitHub"
     }
+  },
+  "about": {
+    "meta": {
+      "title": "Chi Siamo — NomeSito",
+      "description": "Scopri la storia, la missione e il team dietro NomeSito."
+    },
+    "hero": {
+      "eyebrow": "La nostra storia",
+      "title": "Costruiamo insieme strumenti liberi",
+      "subtitle": "NomeSito nasce dalla convinzione che la tecnologia aperta sia un bene comune. Siamo un gruppo di volontari che crede nel potere della collaborazione distribuita."
+    },
+    "mission": {
+      "title": "La nostra missione",
+      "body": "Vogliamo rendere accessibili strumenti digitali di qualità a chiunque, senza barriere economiche o tecniche. Ogni cosa che costruiamo è open source, documentata e pensata per durare nel tempo."
+    },
+    "values": {
+      "title": "I nostri valori",
+      "openness": {
+        "title": "Apertura",
+        "description": "Tutto ciò che produciamo è pubblico, dal codice alle discussioni interne. La trasparenza non è un'opzione, è il nostro punto di partenza."
+      },
+      "collaboration": {
+        "title": "Collaborazione",
+        "description": "Le idee migliori nascono dall'incontro di prospettive diverse. Accogliamo contributi da chiunque, indipendentemente dall'esperienza."
+      },
+      "accessibility": {
+        "title": "Accessibilità",
+        "description": "Progettiamo pensando a tutti: documentazione chiara, interfacce inclusive e strumenti che funzionano anche su connessioni lente."
+      },
+      "sustainability": {
+        "title": "Sostenibilità",
+        "description": "Costruiamo per il lungo periodo. Preferiamo decisioni ponderate a soluzioni rapide che creano debito tecnico o umano."
+      }
+    },
+    "team": {
+      "title": "Il team",
+      "subtitle": "Siamo un gruppo distribuito in tutta Italia. Ci coordiniamo in remoto e ci incontriamo quando possiamo."
+    },
+    "history": {
+      "title": "Come siamo arrivati qui",
+      "items": {
+        "founded": {
+          "year": "2021",
+          "title": "Le origini",
+          "description": "Il progetto nasce da una conversazione su Discord tra quattro persone che non si erano mai incontrate di persona."
+        },
+        "firstRelease": {
+          "year": "2022",
+          "title": "Prima release pubblica",
+          "description": "Dopo mesi di lavoro notturno, pubblichiamo la prima versione stabile. In una settimana arrivano i primi 200 star su GitHub."
+        },
+        "community": {
+          "year": "2023",
+          "title": "Nasce la community",
+          "description": "Apriamo il server Discord e organizziamo il primo evento online. La community raggiunge le 500 persone in pochi mesi."
+        },
+        "today": {
+          "year": "Oggi",
+          "title": "Continuiamo a crescere",
+          "description": "Il progetto è mantenuto da un team di volontari ed è usato da migliaia di persone. E siamo solo all'inizio."
+        }
+      }
+    },
+    "cta": {
+      "title": "Vuoi far parte di tutto questo?",
+      "subtitle": "Che tu voglia scrivere codice, migliorare la documentazione o semplicemente dire ciao — sei il benvenuto.",
+      "contribute": "Contribuisci al progetto",
+      "discord": "Entra su Discord"
+    }
   }
 }

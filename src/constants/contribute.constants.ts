@@ -1,13 +1,3 @@
-/**
- * Chiavi di traduzione per la pagina /contribute.
- *
- * Queste costanti definiscono la struttura del namespace "contribute"
- * nei file messages/it.json e messages/en.json.
- *
- * Esempio di utilizzo nel componente:
- *   const t = useTranslations('contribute')
- *   t('hero.title')
- */
 export const CONTRIBUTE_TRANSLATION_KEYS = {
   namespace: 'contribute',
 
