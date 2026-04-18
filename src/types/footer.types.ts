@@ -1,10 +1,18 @@
+import type { ComponentProps } from 'react';
+import { Link } from '@/i18n/navigation';
+
+type IntlHref = ComponentProps<typeof Link>['href'];
+
 export interface FooterLink {
   key: string;
   label: string;
-  href: string;
+  href: IntlHref;
 }
 
-export interface SocialLink extends FooterLink {
+export interface SocialLink {
+  key: string;
+  label: string;
+  href: string;
   icon: 'github' | 'twitter' | 'discord' | 'instagram' | 'youtube';
 }
 
@@ -22,4 +30,8 @@ export interface DonateLink {
   platform: 'paypal' | 'github-sponsors' | 'kofi';
 }
 
-export interface FooterBottomLink extends FooterLink {}
+export interface FooterBottomLink {
+  key: string;
+  label: string;
+  href: IntlHref;
+}

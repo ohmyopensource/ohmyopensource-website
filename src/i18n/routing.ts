@@ -19,6 +19,11 @@ export const routing = defineRouting({
     '/contribuisci': {
       en: '/contribute',
     },
+    '/privacy-policy': '/privacy-policy',
+    '/cookie-policy': '/cookie-policy',
+    '/termini-e-condizioni': {
+      en: '/terms-and-conditions',
+    },
 
     // todo
     '/news/[articleSlug]': {
